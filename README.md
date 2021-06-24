@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Me chamo Fábio Santos tenho 27 anos e sou natural de Ponta Grossa - PR.
+Me chamo Fábio Santos tenho 28 anos e sou natural de Ponta Grossa - PR.
 
 Sou formado em Engenharia de Software e tenho Mestrado em Computação Aplicada, ambos pela UEPG, e estou terminando uma licenciatura em computação pela Uniasselvi.
 
