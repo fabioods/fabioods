@@ -21,10 +21,12 @@ Sou formado em Engenharia de Software e tenho Mestrado em Computação Aplicada,
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="CSS" height="50" width="50" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg'>
-
-
+   <img align="center" alt="CSS" height="50" width="50" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg'>
 </div>
 <br/>
+  
+🌱 Além disso estou estudando tópicos relacionados a **Arquitetura Limpa, DDD, Padrões de projeto, Testes automatizados, Refatoração, Código limpo, etc...**
+ <br/>
 
 👯 Também estou aberto a participações em projetos envolvendo as técnologias citadas acima, ou mesmo alguma nova para aprendizado.
 
