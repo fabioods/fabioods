@@ -4,7 +4,7 @@ Tenho 28 anos e sou natural de Ponta Grossa - PR.
 
 Sou formado em Engenharia de Software e tenho Mestrado em Computação Aplicada, ambos pela UEPG, e licenciado em computação pela Uniasselvi.
 
-🔭 Atualmente sou dev Full Stack na Fundação ABC, na cidade de Castro.
+🔭 -
 
 <div>
   <a href="https://github.com/fabioods">
