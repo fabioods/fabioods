@@ -1,6 +1,6 @@
 ### Falaaaa man@ haha sou Fábio dos Santos 👋
 
-Tenho 29 anos e sou natural de Ponta Grossa - PR.
+Tenho 32 anos e sou natural de Ponta Grossa - PR.
 
 Sou formado em Engenharia de Software e tenho Mestrado em Computação Aplicada, ambos pela UEPG, e licenciado em computação pela Uniasselvi.
 
